@@ -1,4 +1,5 @@
-![gif from nerdy.dev]([https://github.com/argyleink/argyleink/blob/master/argyleink-sm2.gif?](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fwelcome-server-the-night-world-thank-you-for-my-join-server-gif-24664523&psig=AOvVaw2BYE3Ih3T7cbA1ZMA4gqr2&ust=1696328872189000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCJDynNWT14EDFQAAAAAdAAAAABAP)https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fwelcome-server-the-night-world-thank-you-for-my-join-server-gif-24664523&psig=AOvVaw2BYE3Ih3T7cbA1ZMA4gqr2&ust=1696328872189000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCJDynNWT14EDFQAAAAAdAAAAABAP)
+![113611467-3a567d80-9657-11eb-862b-b07b4f105c6f](https://github.com/MichadeHaan/MichadeHaan/assets/130181637/1faec48f-549d-4699-b328-7bc2e884b61b)
+
 - 👋 Hi, I’m @MichadeHaan
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning frond-end
