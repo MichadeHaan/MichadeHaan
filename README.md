@@ -1,4 +1,4 @@
-![113611467-3a567d80-9657-11eb-862b-b07b4f105c6f](https://github.com/MichadeHaan/MichadeHaan/assets/130181637/1faec48f-549d-4699-b328-7bc2e884b61b)
+![bb938bd50fcfedccd720641f5a824bba](https://github.com/MichadeHaan/MichadeHaan/assets/130181637/667cca6b-6d8e-4f79-af73-258f5d2ebdbc)
 
 - 👋 Hi, I’m @MichadeHaan
 - 👀 I’m interested in coding
