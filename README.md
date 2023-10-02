@@ -1,3 +1,4 @@
+![gif from nerdy.dev](https://github.com/argyleink/argyleink/blob/master/argyleink-sm2.gif?raw=true)
 - 👋 Hi, I’m @MichadeHaan
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning frond-end
