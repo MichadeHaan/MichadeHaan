@@ -11,7 +11,6 @@ headers = {
 # Vervang deze gegevens door je eigen Client ID en Secret
 client_id = '19263'
 client_secret = '3HXL5sRN66lGpaT721439uT01qOUOmNqtDnxVckh'
-api_key = 'jouw_api_sleutel_hier'  # Vervang door je eigen API sleutel
 
 # GraphQL-query om gebruikersinformatie op te halen
 query = '''
