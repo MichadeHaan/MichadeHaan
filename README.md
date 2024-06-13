@@ -11,3 +11,5 @@
 - 🌱 I’m currently learning frond-end
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/micha-de-haan-0a9372294/)
+
+[![AniList Badge](https://img.shields.io/badge/AniList-michasanime-blue)](https://anilist.co/user/michasanime/)
