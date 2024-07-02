@@ -6,6 +6,14 @@
 ![MichadeHaan's github stats](https://github-readme-stats.vercel.app/api?username=MichadeHaan&theme=dark&show_icons=true)
 </details>
 
+<details>
+  <summary>Klik hier om gegevens te zien over anime/manga</summary>
+  
+<img src="https://img.anili.st/user/6791913" width="500">
+</details>
+
+
+
 - 👋 Hi, I’m @MichadeHaan
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning frond-end
